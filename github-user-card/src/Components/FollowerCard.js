@@ -24,14 +24,12 @@ const FollowerTopDiv = styled.div`
 const FollowerCardH2 = styled.h2`
   font-size: 2rem;
   margin: 0;
-  z-index: 1;
 `;
 
 const FollowerCardH3 = styled.h3`
   font-size: 1.5rem;
   margin: 0.5%;
   font-style: italic;
-  z-index: 1;
 `;
 
 const FollowerCardImg = styled.img`
@@ -39,23 +37,19 @@ const FollowerCardImg = styled.img`
   max-width: 80%;
   margin: 2%;
   box-shadow: 10px 10px 15px 0px rgba(0, 0, 0, 0.6);
-  z-index: 1;
   background-color: white;
 `;
 
 const FollowerCardP = styled.p`
   margin: 0;
-  z-index: 1;
 `;
 
 const FollowerDataDiv = styled.div`
   margin: 2%;
-  z-index: 1;
 `;
 
 const FollowerTextDiv = styled.div`
   width: 60%;
-  z-index: 1;
 `;
 
 const FollowerA = styled.a`
