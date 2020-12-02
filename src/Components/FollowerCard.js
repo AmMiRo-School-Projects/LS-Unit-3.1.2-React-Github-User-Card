@@ -5,7 +5,6 @@ const FollowerCardDiv = styled.div`
   border-radius: 7px;
   width: 40%;
   margin: 2% auto;
-  background-color: gray;
   box-shadow: 10px 10px 10px 0px rgba(0, 0, 0, 0.5);
 `;
 
@@ -37,7 +36,7 @@ const FollowerCardImg = styled.img`
   max-width: 80%;
   margin: 2%;
   box-shadow: 10px 10px 15px 0px rgba(0, 0, 0, 0.6);
-  background-color: white;
+  background-color: lightgray;
 `;
 
 const FollowerCardP = styled.p`
